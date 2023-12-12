@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-retypewind",
+  "description": "Create React Typescript Tailwindcss App.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "create-react-app",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "template"
+  ],
+  "author": "ngdduy17427",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngdduy17427/cra-template-retypewind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngdduy17427/cra-template-retypewind/issues"
+  },
+  "readme": "README.md",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "main": "template.json",
+  "scripts": {}
+}
