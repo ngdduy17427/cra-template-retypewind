@@ -4,9 +4,9 @@ module.exports = {
     es2021: true
   },
   extends: [
-    "react-app",
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended",
+    "react-app",
     "plugin:react/recommended",
     "plugin:prettier/recommended"
   ],
@@ -33,6 +33,11 @@ module.exports = {
     "react/jsx-uses-react": "off",
     "react/jsx-props-no-spreading": "off",
     "react/no-unescaped-entities": "off",
-    "prettier/prettier": "off"
+    "prettier/prettier": "off",
+    "react/jsx-fragments": "error",
+    "react/self-closing-comp": "error",
+    "react/button-has-type": "error",
+    "react/no-array-index-key": "error",
+    "react-hooks/rules-of-hooks": "error"
   }
 };
