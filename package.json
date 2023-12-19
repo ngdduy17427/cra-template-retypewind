@@ -24,5 +24,6 @@
     "template.json"
   ],
   "main": "template.json",
+  "homepage": ".",
   "scripts": {}
 }
