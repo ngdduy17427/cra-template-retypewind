@@ -1,6 +1,6 @@
 # Create React Typescript Tailwindcss App
 
-### <p align="center">Based template for react application</p>
+### <p align="center">Based template for React application</p>
 
 # Make it Your Own!
 
@@ -12,6 +12,10 @@ To build this website, you will need to have the latest stable versions of `Node
 
 ```
 npx create-react-app my-app --template retypewind
+
+# or
+
+yarn create react-app my-app --template retypewind
 ```
 
 # Contact me

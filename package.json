@@ -1,7 +1,7 @@
 {
   "name": "cra-template-retypewind",
   "description": "Create React Typescript Tailwindcss App.",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "license": "MIT",
   "keywords": [
     "create-react-app",
@@ -25,5 +25,36 @@
   ],
   "main": "template.json",
   "homepage": ".",
-  "scripts": {}
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "clean": "rimraf ./build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@types/node": "^20.2.1",
+    "@types/react": "^18.2.6",
+    "@types/react-dom": "^18.2.4",
+    "@typescript-eslint/parser": "^5.62.0",
+    "classnames": "^2.3.2",
+    "eslint": "^8.55.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^3.1.1",
+    "react-scripts": "^5.0.1",
+    "sass": "^1.69.5",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.0.4"
+  },
+  "overrides": {
+    "typescript": "$typescript"
+  }
 }
