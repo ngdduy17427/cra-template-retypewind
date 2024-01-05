@@ -9,8 +9,6 @@
 # misc
 .DS_Store
 .env
-.env.development
-.env.production
 
 package-lock.json
 
