@@ -1,7 +1,7 @@
 {
   "name": "cra-template-retypewind",
   "description": "Create React Typescript Tailwindcss App.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "MIT",
   "keywords": [
     "create-react-app",
