@@ -1,6 +1,6 @@
 import logo from "Common/Assets/SVG/logo.svg";
 import { FC } from "react";
-import "./index.scss";
+import "./App.scss";
 
 const App: FC = () => {
   return (
@@ -10,7 +10,12 @@ const App: FC = () => {
         <p>
           Edit <code>src/App/index.tsx</code> and save to reload.
         </p>
-        <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Learn React
         </a>
       </header>
