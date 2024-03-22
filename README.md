@@ -1,6 +1,6 @@
 # Create React Typescript Tailwindcss App
 
-### <p align="center">Based Typescript template for React application</p>
+### Based Typescript template for React application
 
 [![Package Quality](https://packagequality.com/shield/cra-template-retypewind.svg)](https://packagequality.com/#?package=cra-template-retypewind)
 [![NPM version](https://badge.fury.io/js/cra-template-retypewind.svg)](https://www.npmjs.com/package/cra-template-retypewind)
